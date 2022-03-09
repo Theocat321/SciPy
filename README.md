@@ -21,6 +21,6 @@ Also using a StandardScalar and cleansing data
 If there is any suggestion feel free to let me know!
 [Email](adamo.mark25@gmail.com)
 
-Please see my home page to see more of what i have been up to
+Please see my home page to see more of what i have been up to<br>
 [Home Page](https://github.com/Theocat321/)<br>
 [Main project from this knowledge](https://github.com/Theocat321/CarPriceClassifier)
